@@ -7,11 +7,13 @@
 
 #### Projects I am currently working on:
 - Shoppy (No Url Yet) - This project is projected to scraper over 1billion different products over the 3 major ecom brands **Shopify**, *Woocommerce* & ~~Alibaba~~
-- Shortyai (No Url Yet) - This project is  a simple project that aims to clone the functionality of https://opus.ai & https://vidyo.ai but specifically for automation projects
-- Cookiejar.co (https://cookiejar.co) - This is a project based on stumbledupon & is made for a client & potential partner.
-- theDev.hub (No Url Yet) - A marketplace/freelance platform where people hire me & I develop a script. The script then gets added to the marketplace & people can buy it. The person who hired me to make it gets 90% of the profits.
-- These are rough overviews of what I want completed over the next 6 months ( I will probably release more projects to the wild )
+- Van-life ( For learning typescript currently )
+- AiContentBot - This is my most favourite project, Here is a github repo that has the readme ( Project is private, but snippets will be shared )
 
+
+#### Job request
+
+- If anyone is open to providing me a job ( Currenly make around 15-30usd/h freelancing ) That pays more that this & only has around 6 hours of working time a day. Please contact me on [](mailto:business@simonferns.com). Thanks!
 ---
 
 <h3 align="left">Connect with me:</h3>
@@ -30,8 +32,5 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/AdonisCodes"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://bmc.link/AdonisCodes" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adoniscodes&show_icons=true&locale=en&layout=compact" alt="adoniscodes" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adoniscodes&show_icons=true&locale=en" alt="adoniscodes" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adoniscodes&" alt="adoniscodes" /></p>
+<p style="width: 100%"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adoniscodes&" alt="adoniscodes" /></p>
