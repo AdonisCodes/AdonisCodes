@@ -22,6 +22,11 @@
 <a href="https://discord.gg/adoniscodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="adoniscodes" height="30" width="40" /></a>
 </p>
 
+<h3 align="left">Hire Me:</h3>
+<p align="left">
+  I have about 3 hours extra a day that I can use for some fulltime position ( Contract can vary in length, but most interested in 1-2 year contracts, Here is my email you can use to contact: 
+  <a href="https://discord.gg/adoniscodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="adoniscodes" height="30" width="40" /></a>
+</p>
 ---
 
 <h3 align="left">Languages and Tools:</h3>
