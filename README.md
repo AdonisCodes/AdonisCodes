@@ -7,7 +7,7 @@
 
 #### Projects I am currently working on:
 - Shoppy (No Url Yet) - This project is projected to scraper over 1billion different products over the 3 major ecom brands **Shopify**, *Woocommerce* & ~~Alibaba~~
-- Van-life ( For learning typescript currently )
+- [shop.simonferns.com](https://shop.simonferns.com) ( For learning typescript currently )
 - AiContentBot - This is my most favourite project, Here is a github repo that has the readme ( Project is private, but snippets will be shared )
 
 
