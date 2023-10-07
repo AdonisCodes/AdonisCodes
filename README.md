@@ -13,7 +13,8 @@
 
 #### Job request
 
-- If anyone is open to providing me a job ( Currenly make around 15-30usd/h freelancing ) That pays more that this & only has around 6 hours of working time a day. Please contact me on [](mailto:business@simonferns.com). Thanks!
+- If anyone is open to providing me a job ( Currenly make around 15-30usd/h freelancing ) That pays more that this & only has around 6 hours of working time a day. Please contact me on [business@simonferns.com](mailto:business@simonferns.com). Thanks!
+
 ---
 
 <h3 align="left">Connect with me:</h3>
