@@ -10,16 +10,12 @@
 - [shop.simonferns.com](https://shop.simonferns.com) ( For learning typescript currently )
 - AiContentBot - This is my most favourite project, Here is a github repo that has the readme ( Project is private, but snippets will be shared )
 
-
-#### Job request
-
-- If anyone is open to providing me a job ( Currenly make around 15-30usd/h freelancing ). After other freelance clients I have about 4 hours left, so that can be my time commitment. Please contact me on [business@simonferns.com](mailto:business@simonferns.com). Thanks!
-
 ---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.youtube.com/c/https://www.youtube.com/channel/uc8zhsw4thgvavsirspthksw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uc8zhsw4thgvavsirspthksw" height="30" width="40" /></a>
+  
 <a href="https://discord.gg/adoniscodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="adoniscodes" height="30" width="40" /></a>
 </p>
 
