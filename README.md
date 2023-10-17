@@ -22,10 +22,10 @@
 
 ---
 
-<div style="display: flex; flex-direction: column;">
-<p><a href="https://www.buymeacoffee.com/AdonisCodes"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://bmc.link/AdonisCodes" /></a></p><br><br>
+<div style="display: flex; flex-direction: column; align-items: center; justify-content: center;">
+<a href="https://www.buymeacoffee.com/AdonisCodes"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://bmc.link/AdonisCodes" />
 
 
-<p style="width: 100%"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adoniscodes&" alt="adoniscodes" /></p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adoniscodes&" alt="adoniscodes" />
 
 </div>
