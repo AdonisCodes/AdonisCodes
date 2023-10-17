@@ -6,9 +6,7 @@
 </p>
 
 #### Projects I am currently working on:
-- Shoppy (No Url Yet) - This project is projected to scraper over 1billion different products over the 3 major ecom brands **Shopify**, *Woocommerce* & ~~Alibaba~~
-- [shop.simonferns.com](https://shop.simonferns.com) ( For learning typescript currently )
-- AiContentBot - This is my most favourite project, Here is a github repo that has the readme ( Project is private, but snippets will be shared )
+- [Project-Vidi](https://github.com/AdonisCodes/Project-Vidi) - This is my most favourite project, Here is a github repo that has the readme ( Project is private, but snippets will be shared )
 
 ---
 
@@ -24,8 +22,10 @@
 
 ---
 
-<h3 align="left">Support:</h3>
+<div style="display: flex; flex-direction: column;">
 <p><a href="https://www.buymeacoffee.com/AdonisCodes"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://bmc.link/AdonisCodes" /></a></p><br><br>
 
 
 <p style="width: 100%"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adoniscodes&" alt="adoniscodes" /></p>
+
+</div>
