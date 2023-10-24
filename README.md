@@ -1,10 +1,6 @@
 <h1 align="center">Hi 🙋‍♂️, I'm Simon Ferns!</h1>
 <h3 align="center">👨‍💻 Programmer | 📚 Self-improvement enthusiast | 💪 Fitness enthusiast | 🐍 Python automation lover | 💰 Passionate Entrepreneur 💼</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adoniscodes&label=Profile%20views&color=0e75b6&style=flat" alt="adoniscodes" />
-
-</p>
-
 #### Projects I am currently working on:
 - [Project-Vidi](https://github.com/AdonisCodes/Project-Vidi) - This is my most favourite project, Here is a github repo that has the readme ( Project is private, but snippets will be shared )
 
@@ -17,3 +13,4 @@
 ---
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adoniscodes&" alt="adoniscodes" style="margin-left: auto;"/>
+[![](https://visitcount.itsvg.in/api?id=AdonisCodes&label=Wanderers&color=6&pretty=true)](https://visitcount.itsvg.in)
