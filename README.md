@@ -13,5 +13,5 @@
 ---
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adoniscodes&" alt="adoniscodes" style="margin-left: auto;"/>
-![](https://visitcount.itsvg.in/api?id=AdonisCodes&label=Wanderers&color=6&pretty=true)](https://visitcount.itsvg.in)
+<img align="center" src="https://visitcount.itsvg.in/api?id=AdonisCodes&label=Wanderers&color=6&pretty=true&" alt="adoniscodes" style="margin-left: auto;"/>
 
