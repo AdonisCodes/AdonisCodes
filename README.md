@@ -15,4 +15,4 @@
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adoniscodes&" alt="adoniscodes" style="margin-left: auto;"/>
 <img align="center" src="https://visitcount.itsvg.in/api?id=AdonisCodes&label=Wanderers&color=6&pretty=true&" alt="adoniscodes" style="margin-left: auto;"/>
 
-<figure><embed src="https://wakatime.com/share/@018b7a1b-507e-4423-8ea1-a1ca86e046a1/6c301623-d08f-4190-921d-59d26eeb6d73.svg"></embed></figure>
+<img src="https://wakatime.com/share/@018b7a1b-507e-4423-8ea1-a1ca86e046a1/6c301623-d08f-4190-921d-59d26eeb6d73.svg"></img>
