@@ -1,5 +1,5 @@
-![image](https://github.com/AdonisCodes/AdonisCodes/assets/122154257/d5706cd2-ffa3-4069-8a3b-78e133595253)
 
+![Building something that is changing the world](https://github.com/AdonisCodes/AdonisCodes/assets/122154257/d7b1bc57-22e5-41d7-8ac6-c323ff3792e6)
 
 # About Me:
 Hi! I am a software engineer that started because I wanted to automate something.
