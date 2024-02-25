@@ -1,28 +1,34 @@
-# 💫 About Me:
-🔭 I’m currently working on [vidi](https://vidi.simonferns.com)<br>🌱 I’m currently learning Golang and Neovim<br>💬 Ask me anything!<br>⚡ I use an Arch distro called "Garuda"
+![image](https://github.com/AdonisCodes/AdonisCodes/assets/122154257/d5706cd2-ffa3-4069-8a3b-78e133595253)
 
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/AdonisCodes) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/AdonisCodes_) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@AdonisCodes) 
+# About Me:
+Hi! I am a software engineer that started because I wanted to automate something.
+It has been a passion ever since, but it got extremely more fun starting the 19/02/2024 once I discovered what I can do.
+I can't tell you about the project, and can also not showcase it on youtube as it can come at a cost of me getting banned on platforms I use a ton, Especially YouTube haha :)
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white) ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white) ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+Other than that I am focusing on these technologies currently, as I see the longevity & ease of use in them:
+- Dart & Flutter
+- Python
+- Golang
+- Firebase & Supabase
 
-_Note that I am currently shifting to a more dense stack, only consisting of golang, typescript, svelte, gcp & postgres for my technical tools, as I am trying to master them!_
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AdonisCodes&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=AdonisCodes&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AdonisCodes&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+# Quotes
+Now lets get on to some quotes shall we?
+These quotes makes me think of a better world.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AdonisCodes&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+_"Look at everything that exists, and observe that it is already in dissolution and in change, called purification. Nothing is made to stay constant, but erratic despirsion destroys a craft."_ - Anonymous
 
----
-[![](https://visitcount.itsvg.in/api?id=AdonisCodes&icon=0&color=0)](https://visitcount.itsvg.in)
+_"Focus on being productive instead of busy."_ - Tim Ferriss
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/adoniscodes) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/francoisferns19) 
+_"We are what we repeatedly do. Excellence, then, is not an act but a habit."_ — Will Durant
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+_"We are what we repeatedly do. Excellence, then, is not an act but a habit. So focusing on many things makes you good at being mediocre at all, but focusing on one 
+ leads you to master many!"_ - AdonisCodes, Extension of Will Durant
+
+# Thanks!
+Thanks for reading this far.
+If you fancy you could always take a peek at what I have been up to.
+Mostly I will be working on projects which improves on one of the technologies above.
+
+:)
