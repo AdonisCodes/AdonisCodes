@@ -1,3 +1,5 @@
+![Building something that is changing the world](https://github.com/AdonisCodes/AdonisCodes/assets/122154257/9f993329-c03d-4631-b6f3-ed08243af380)
+
 🔺 [@AdonisCodes](https://youtube.com/@AdonisCodes) 
 💸 [Automa.bot](https://github.com/Automa-Automations/) 
 🍇 [SimonFerns.com](https://simonferns.com) 
