@@ -6,5 +6,8 @@
   - High Quality GenAI content automation platform
  
 ### **📚 OSS Libraries / Frameworks:**
-- **AutomaUI**: [TODO] (swift & vanjs)
-- **SwiftPackages**: [TODO]
+- TODO
+
+### **💾 Main Technologies**
+- Swift, SwiftUI, Vapor, Postgres, Docker, fly.io (hosting)
+- Typescript, NestJS, AWS, Kubernetes, Git, Obsidian / Notion
